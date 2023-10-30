@@ -527,9 +527,11 @@ void again()
     }
     else if (chh == 'n')
     {
+       cout << "Thanks for playing";
+        cout << endl;
+        cout << endl;
         exit(0);
-        cout << endl;
-        cout << endl;
+    }
     }
     else
     {
